@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": "P01-ia-de-enfeite",
+      "tipo": "carrossel",
+      "dark": true,
+      "_nota": "capa coverFull (imagem inteira) => post inteiro dark (regra de consistência)",
+      "slides": [
+        { "t": "coverFull", "photo": { "img": "jobs" },
+          "title": "Pare de usar IA {{de enfeite}}.",
+          "sub": "Quase toda empresa já tem IA. Quase nenhuma usa de verdade." },
+        { "t": "cards", "accent": "red", "title": "IA de enfeite é isto:",
+          "cards": [
+            { "t": "Assinatura de ChatGPT que virou aba esquecida." },
+            { "t": "Um “GPT da empresa” que ninguém abre." },
+            { "t": "Resumo de reunião que ninguém lê." },
+            { "t": "Ferramenta nova toda semana, processo nenhum." }
+          ],
+          "footer": "Bonito no feed. {{inútil}} na operação." },
+        { "t": "checklist", "title": "IA estruturada faz isto:",
+          "items": [
+            "Entra dentro de um processo que já existe.",
+            "Tem dono, meta e um número pra bater.",
+            "Roda sozinha e avisa quando algo sai do trilho.",
+            "Tira a tarefa repetitiva da mão de gente cara."
+          ],
+          "footer": "Você sente no {{caixa}}, não no feed." },
+        { "t": "quote", "text": "Foco é dizer não a {{mil coisas boas}}.", "attrib": "STEVE JOBS" },
+        { "t": "cta", "title": "Sua IA já está aí. Falta {{estrutura}}.",
+          "cta": "Comenta ESTRUTURA aqui embaixo ou toca no link da bio." }
+      ]
+    },
+
+    {
+      "id": "S01-dado-89",
+      "tipo": "estatico",
+      "_nota": "post estático = 1 slide só, sem dots/ARRASTE",
+      "slide": { "t": "bignum", "accent": "red", "num": "89%",
+        "label": "dos projetos de IA nas empresas nunca chegam à produção.",
+        "ctx": "A técnica avançou. <b>A operação travou.</b>" }
+    },
+
+    {
+      "id": "S02-mito",
+      "tipo": "estatico",
+      "slide": { "t": "mito", "title": "\"A IA vai substituir meu time.\"",
+        "mito": "A IA troca as pessoas.",
+        "verdade": "A IA tira do time o trabalho que trava o time. Quem decide continua sendo gente." }
+    }
+  ]
+}

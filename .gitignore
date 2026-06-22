@@ -1,0 +1,18 @@
+# saídas e dados por-marca (cada usuário gera os seus)
+out/
+projetos/
+acervo/
+
+# imagens locais / direito autoral — não versionar
+*.jpg
+*.jpeg
+*.png
+*.webp
+!exemplos/**/*.png
+
+# deps / lixo
+node_modules/
+__pycache__/
+*.log
+.DS_Store
+Thumbs.db

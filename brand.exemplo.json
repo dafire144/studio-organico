@@ -1,0 +1,33 @@
+{
+  "name": "Orna",
+  "handle": "@ornasolucoes",
+  "bordao": "Orna — luz na sua operação.",
+  "palette": {
+    "marfim": "#F2ECD9",
+    "offwhite": "#F5F2E8",
+    "branco": "#FBFAF4",
+    "tinta": "#0D1612",
+    "ambar": "#A87228",
+    "lum": "#E8B24A",
+    "tint": "#E7DCC2",
+    "pinheiro": "#0A130E",
+    "musgo": "#10241A"
+  },
+  "fonts": { "serif": "Fraunces", "sans": "Space Grotesk", "mono": "JetBrains Mono" },
+  "assets": {
+    "imgUrl": "file:///C:/Users/SEU-USUARIO/Documents/studio-organico/projetos/MARCA/img",
+    "wordmarkDarkUrl": "file:///C:/Users/SEU-USUARIO/Documents/studio-organico/projetos/MARCA/assets/wordmark-escuro.svg",
+    "wordmarkLightUrl": "file:///C:/Users/SEU-USUARIO/Documents/studio-organico/projetos/MARCA/assets/wordmark-claro.svg",
+    "profileUrl": "file:///C:/Users/SEU-USUARIO/Documents/studio-organico/projetos/MARCA/assets/perfil.png",
+    "logoDir": "file:///C:/Users/SEU-USUARIO/Documents/studio-organico/projetos/MARCA/img/logos"
+  },
+  "_significado_palette": {
+    "marfim": "FUNDO claro padrão (off-white/marfim)",
+    "branco": "fundo dos CARDS (quase branco)",
+    "tinta": "cor do TEXTO escuro",
+    "ambar": "ACCENT sólido (linhas, números, destaque)",
+    "lum": "accent VIVO (brilho, usado no modo escuro)",
+    "tint": "caixa de apoio (tom suave do accent)",
+    "pinheiro": "FUNDO escuro (quando o post é dark)"
+  }
+}
