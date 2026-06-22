@@ -5,6 +5,12 @@ Você dá o contexto da empresa (briefing), o Claude gera os posts com a identid
 Metodologia destilada da Orna: estilo editorial (serifa + accent + grão) com **imagem real que
 conversa com a copy** (capa-ícone full-bleed, estilo "G4").
 
+![Exemplo gerado pelo studio-organico](exemplos/preview.png)
+
+> Acima: exemplo gerado com uma marca fictícia ("Norte", paleta vinho) — carrossel + estáticos.
+> Trocar de marca = trocar o `brand.json` (cores, fontes, logo). Capas com imagem real (ícone)
+> também são suportadas; aqui usamos só tipografia pra não embutir foto de terceiros.
+
 ## Instalar (uso via Claude)
 1. Copie a pasta `studio-organico/` inteira para a pasta de skills do Claude
    (ex.: `~/.claude/skills/studio-organico/`) **ou** deixe-a no projeto e peça pro Claude usá-la.
